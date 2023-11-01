@@ -1,2 +1,2 @@
 # Fitness-App
-This is fitness App developed to improve physical and mental helth.
+This is a fitness App developed to improve physical and mental health.
